@@ -112,12 +112,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your UI here)
-
----
-
 ## 🤝 Contribution
 
 1. Fork the repository
